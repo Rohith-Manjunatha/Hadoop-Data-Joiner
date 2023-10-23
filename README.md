@@ -19,7 +19,6 @@ Fields Description:
 
 - **NUMBER_OF_VICTIMS**: Number of victims in the incident.
 
-
 Dataset 2: [Violence Reduction - Victims of Homicides and Non-Fatal Shootings](https://catalog.data.gov/dataset/violence-reduction-victims-of-homicides-and-non-fatal-shootings)
 
 Number of Fields: 8
@@ -44,7 +43,7 @@ Fields Description:
 
 - GUNSHOT_INJURY_I: Indicator of whether the injury resulted from a gunshot (YES/NO).
 
-
+> **_NOTE:_**  The datasets were sourced from [ catalog.data.gov](https://catalog.data.gov/dataset/?tags=crime&organization=city-of-chicago) and originally contained information about crimes in Chicago. They have been modified for the purpose of this assignment.
 
 #### Upload the datasets into Hadoop using the following commands
 
@@ -169,3 +168,4 @@ The results indicate whether the MapReduce job is functioning correctly, as it s
 ![Task 4 Output](./images/task4_output.png)
 
 
+> _This Assignment is property of Indiana University-Bloomington_
