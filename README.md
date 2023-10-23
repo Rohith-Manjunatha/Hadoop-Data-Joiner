@@ -43,7 +43,7 @@ Fields Description:
 
 - GUNSHOT_INJURY_I: Indicator of whether the injury resulted from a gunshot (YES/NO).
 
-><span style="color: #777777;"> **_NOTE:_**  The datasets were sourced from [ catalog.data.gov](https://catalog.data.gov/dataset/?tags=crime&organization=city-of-chicago) and originally contained information about crimes in Chicago. They have been modified for the purpose of this assignment.</span>
+> **_NOTE:_**  The datasets were sourced from [ catalog.data.gov](https://catalog.data.gov/dataset/?tags=crime&organization=city-of-chicago) and originally contained information about crimes in Chicago. They have been modified for the purpose of this assignment.
 
 #### Upload the datasets into Hadoop using the following commands
 
@@ -168,4 +168,4 @@ The results indicate whether the MapReduce job is functioning correctly, as it s
 ![Task 4 Output](./images/task4_output.png)
 
 
-> <span style="color: #777777;">_This Assignment is property of Indiana University-Bloomington_</span>
+> _This Assignment is property of Indiana University-Bloomington_
