@@ -1,7 +1,7 @@
 # Hadoop-Data-Joiner
 
 ## Task 1: Dataset familiarization
-Dataset 1: [Violence Reduction - Victim Demographics - Aggregated](https://catalog.data.gov/dataset/violence-reduction-victim-demographics-aggregated) {:target="_blank"} 
+Dataset 1: [Violence Reduction - Victim Demographics - Aggregated](https://catalog.data.gov/dataset/violence-reduction-victim-demographics-aggregated)
 
 Number of Fields: 6
 
@@ -20,7 +20,7 @@ Fields Description:
 - **NUMBER_OF_VICTIMS**: Number of victims in the incident.
 
 
-Dataset 2: [Violence Reduction - Victims of Homicides and Non-Fatal Shootings](https://catalog.data.gov/dataset/violence-reduction-victims-of-homicides-and-non-fatal-shootings) {:target="_blank"}
+Dataset 2: [Violence Reduction - Victims of Homicides and Non-Fatal Shootings](https://catalog.data.gov/dataset/violence-reduction-victims-of-homicides-and-non-fatal-shootings)
 
 Number of Fields: 8
 
